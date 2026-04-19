@@ -12,15 +12,15 @@ The objective of this project is to analyze **UPI transactions** across differen
 - ✅ **Designed various visualizations** such as **line charts, column charts, matrix views, pie charts** to enhance data interpretation.  
 
 ### **Dashboard Overview**
-![UPI Dashboard Overview](Images/dashboard_1.png)
+![UPI Dashboard Overview](dashboard_1.png)
 
 ---
 
-![UPI Dashboard Overview](Images/dashboard_2.png)
+![UPI Dashboard Overview](dashboard_2.png)
 
 ---
 
-![UPI Dashboard Overview](Images/dashboard_3.png)
+![UPI Dashboard Overview](dashboard_3.png)
 
 ---
 
